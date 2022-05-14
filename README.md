@@ -34,8 +34,7 @@ Joel Abankwah
 Use the jest library by running `npm test` in the command-line.
 
 ## Questions
-If you're stuck or having problems with the application, If you run into any errors refer to the classes MDN documentation  or 
-✉️ Email me with any questions: joelabankwah15@gmail.com<br /><br />
+If you're stuck or having problems with the application, If you run into any errors refer to the classes MDN documentation or email me with any questions: joelabankwah15@gmail.com<br />
 GitHub: [JoelAbankwah](https://github.com/JoelAbankwah)<br />
 <br />
     
